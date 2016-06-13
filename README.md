@@ -1,4 +1,4 @@
 WS2801
 ======
 
-Libraries for arduinos
+Libraries for arduinos. A file that was uploaded to share with high school interns. This does not belong to me in any way.
